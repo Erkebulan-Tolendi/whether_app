@@ -1,0 +1,1 @@
+Welcome to the Weather Application, your all-in-one solution for overcoming challenges related to weather understanding and planning. This app is designed to cater to the needs of students, teachers, and high school enthusiasts who seek seamless access to weather information, aiding them in making informed decisions about their daily plans.
